@@ -1,9 +1,3 @@
-/* ************************************************************************** */
-/* Nome: Giovana Oshiro da Silva                                              */
-/* Numero USP: 8022103                                                        */
-/* Exercício-programa 1                                                       */
-/* ************************************************************************** */
-
 /*O meu programa codifica as palavras do dicionário em números primos. Cada letra
 do alfabeto recebe um número primo. A ideia é cada palavra receber um código,
 único, resultante da multiplicação dos primos - palavras anagramas, portanto,
